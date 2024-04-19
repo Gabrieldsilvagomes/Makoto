@@ -78,6 +78,20 @@ section {
     font-size: 1.7rem;
 }
 
+.btn-iniciar {
+    margin-top: 1rem;
+    display: inline-block;
+    padding: 1rem 2.8rem;
+    padding-right: 3rem;
+    background: linear-gradient(130deg, rgb(234, 99, 8) 93%, 
+    transparent 90%);
+    color: #fff;
+    cursor: pointer;
+    font-size: 1.7rem;
+}
+
+
+
 
 .btn-Horario{
     margin-top: 1rem;
@@ -726,7 +740,7 @@ section {
     }
 
     .sobreposicao-imagem{
-        margin-left: 470px;
+        margin-left: 270px;
     }
 
     .btn{
@@ -743,13 +757,61 @@ section {
         transform: rotate(180deg);
     }
 
-    .sobreposicao-imagem{
-        margin-left: 130px;
+    .btn-iniciar {
+        margin-top: -20rem;
+        display: inline-block;
+        padding: 1rem 2.8rem;
+        background: linear-gradient(130deg, rgb(234, 99, 8) 93%, transparent 90%);
+        color: #fff;
+        cursor: pointer;
+        font-size: 1.7rem;
+        margin-left: 29rem; /* Ajuste esta propriedade conforme necessário */
     }
 
-    .btn{
-        margin-left: 100px;
+    
+
+
+    .btn-Selecionar{
+        margin-top: 1rem;
+        display: inline-block;
+        padding: 1rem 15rem;
+        background: linear-gradient(130deg, rgb(234, 99, 8) 93%, 
+        transparent 90%);
+        color: #fff;
+        cursor: pointer;
+        font-size: 2.7rem;
+        margin-left: -10px;
     }
+
+
+    .btn-Horario{
+        margin-top: 1rem;
+        display: inline-block;
+        padding: 1rem 2.8rem;
+        padding-right: 3rem;
+        background: linear-gradient(130deg, rgb(234, 99, 8) 93%, 
+        transparent 90%);
+        color: #fff;
+        cursor: pointer;
+        font-size: 1.7rem;
+        margin-left: 140px;
+        margin-top: -2rem;
+    }
+    
+
+    .sobreposicao-imagem{
+        margin-left:224px;
+        width: 35%;
+        margin-top: 11rem;
+    }
+
+
+
+    .btn{
+        margin-left: 10px;
+    }
+
+
 
 
     .header {
